@@ -1,7 +1,8 @@
 .product {
   /* margin: 2.5rem; */
   padding: 1rem 5rem;
-  background-color: var(--color-dark--1);
+  /* background-color: var(--color-dark--1); */
+  background-color: black;
   min-height: calc(100vh );
 }
 

@@ -10,13 +10,13 @@ export default function Product() {
         <div>
           <h2>
             Simple pricing.
-            <br />
-            Just $9/month.
+             
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+          Just kidding—it's free! 🎉
+            <br />
+            <br />
+          Ready to pin your adventures like a pro? Pack your virtual bags, and let's get pinning! 🌍📌
           </p>
         </div>
         <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
