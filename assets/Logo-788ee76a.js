@@ -1,0 +1,1 @@
+import{j as o,L as s}from"./index-f84f9aec.js";const t="_logo_7b2ls_1",l={logo:t};function i(){return o.jsx(s,{to:"/",children:o.jsx("img",{src:"/tripPins/logo1.png",alt:"tripPins logo",className:l.logo})})}export{i as L};
